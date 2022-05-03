@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4cf77f99.chunk.css",
+    "main.js": "/static/js/main.b170a322.chunk.js",
+    "main.js.map": "/static/js/main.b170a322.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3eca5ed2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3eca5ed2.js.map",
+    "static/js/2.ad0e19d3.chunk.js": "/static/js/2.ad0e19d3.chunk.js",
+    "static/js/2.ad0e19d3.chunk.js.map": "/static/js/2.ad0e19d3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4cf77f99.chunk.css.map": "/static/css/main.4cf77f99.chunk.css.map",
+    "static/js/2.ad0e19d3.chunk.js.LICENSE.txt": "/static/js/2.ad0e19d3.chunk.js.LICENSE.txt",
+    "static/media/image18.e1214249.png": "/static/media/image18.e1214249.png",
+    "static/media/landing_image.62168dca.png": "/static/media/landing_image.62168dca.png",
+    "static/media/mobile_img.d5cabfb3.png": "/static/media/mobile_img.d5cabfb3.png",
+    "static/media/navbar.6aba14e6.png": "/static/media/navbar.6aba14e6.png",
+    "static/media/nike_img.f86527c1.png": "/static/media/nike_img.f86527c1.png",
+    "static/media/sale_image.b5c7ff1c.png": "/static/media/sale_image.b5c7ff1c.png",
+    "static/media/shoes_image.b02b7b8e.png": "/static/media/shoes_image.b02b7b8e.png",
+    "static/media/third_image.0ed5369a.png": "/static/media/third_image.0ed5369a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3eca5ed2.js",
+    "static/js/2.ad0e19d3.chunk.js",
+    "static/css/main.4cf77f99.chunk.css",
+    "static/js/main.b170a322.chunk.js"
+  ]
+}

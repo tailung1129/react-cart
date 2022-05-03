@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+@import url('https://fonts.googleapis.com/css?family=Roboto Mono');
+.landing_image{
+    width: 100%;
+    height:auto;
+}
+.hat{
+    width: 100%;
+}
+.scale_shoes{
+    width: 50%;
+}
+.row {
+    display: flex;
+  }
+.column {
+    padding: 5px;
+}
+ul {
+    font-family: 'Rubik';
+    font-weight: 400;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+      font-weight: 1000;
+      text-decoration: underline;
+      text-decoration-color: red;
+      text-underline-offset: 10px;
+  }
+  .line{
+      width:90%;
+      top:-14px;
+      position: relative;
+      @media (max-width : 407px){
+        display:none;
+      }
+  }
+  .navbar{
+    @media (max-width : 407px){
+        display:none;
+      }
+  }
+  .pagination{
+    padding-top: 100px;
+    @media (max-width : 407px){
+      display:none;
+    }
+  }
+  .filterby{
+    font-size: 25px;
+    color:gray;
+    font-family: 'Roboto Mono';
+    margin-left: 75%;
+    @media (max-width : 991px){
+        font-size: 18px;
+      }
+    @media (max-width : 407px){
+        display:none;
+      }
+  }
+  .oneline{
+    display: flex;
+    padding: 30px;
+  }
+  .filter{
+    margin-left: 20px;
+    cursor: pointer;
+    @media (max-width : 407px){
+        display:none;
+      }
+  }
+  .grid{
+    @media (max-width : 407px){
+        display:none;
+      }
+  }
+  .grid_phone{
+      display:none;
+      @media (max-width : 407px){
+        display:block !important;
+        position: relative;
+        
+      }
+  }
+  .loading_img{
+      position: relative;
+      display:block;
+      margin-left: auto;
+      margin-right:auto;
+      top: 30px;
+  }
+  .third_image{
+    @media (max-width : 407px){
+      display:none;
+    }
+  }
+  .third_mobile_image{
+    display: none;
+    @media (max-width : 407px){
+      display:block !important;
+    }
+  }

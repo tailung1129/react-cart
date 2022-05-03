@@ -1,0 +1,14 @@
+.footer{
+  width: 100%;
+  height:80px;
+  background-color: #f2f2f2;
+  position: relative;
+  top: 60px;
+  @media (max-width : 407px){
+    display:none;
+  }
+}
+.center{
+  position:relative;
+  top:30px;
+}
